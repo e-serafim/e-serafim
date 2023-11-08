@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Erivan Serafim!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
 
 <a href="https://www.linkedin.com/in/erivan-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ##
