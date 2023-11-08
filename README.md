@@ -1,12 +1,24 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## Olá! Eu sou o Erivan Serafim!
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-serafim&theme=blue-green">
 -->
 <br>
 Sou formado em Engenharia de Instrumentação, Automação e Robótica na UFABC.<br>
-Atualmente trabalho como Cientista de dados.
+Atualmente trabalho como Cientista de dados no Itaú.
 <br>
-##
+<div style="display: inline_block">
+  <i class="devicon-python-plain-wordmark"></i>
+  <i class="devicon-html5-plain-wordmark colored"></i>
+  <i class="devicon-rstudio-plain colored"></i>
+  <i class="devicon-css3-plain colored"></i>
+  <i class="devicon-git-plain colored"></i>
+</div>
+
+
+## 🐍
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/e-serafim/e-serafim/blob/output/github-contribution-grid-snake-dark.svg">
