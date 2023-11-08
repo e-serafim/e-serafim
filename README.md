@@ -3,8 +3,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-serafim&theme=blue-green">
 -->
 <br>
-<h2>Sou formado em Engenharia de Instrumentação, Automação e Robótica na UFABC.</h2><br>
-<h2>Atualmente trabalho como Cientista de dados.</h2>
+Sou formado em Engenharia de Instrumentação, Automação e Robótica na UFABC.<br>
+Atualmente trabalho como Cientista de dados.
 <br>
 ##
 <div>
