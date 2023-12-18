@@ -3,8 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-serafim&theme=blue-green">
 -->
 <br>
-Sou formado em Engenharia de Instrumentação, Automação e Robótica na UFABC.<br>
-Atualmente trabalho como Cientista de dados no Itaú.
+
 <br>
 
 ## 
